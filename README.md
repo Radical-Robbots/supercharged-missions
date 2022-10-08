@@ -32,6 +32,7 @@ SENSORS
 |75%|2 Rotation|59 cm||
 
 ## My Blocks
+### Initialize
 ![Initialize](resources/docs/images/initialize.png)
 
 ### Turns
